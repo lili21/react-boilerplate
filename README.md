@@ -1,5 +1,5 @@
-React Boilerplat
-================
+React Boilerplate
+=================
 
 Installation
 ------------
